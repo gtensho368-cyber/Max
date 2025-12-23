@@ -1,2 +1,1 @@
-# Max
-Starting 
+# Starting with python
